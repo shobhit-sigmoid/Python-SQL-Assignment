@@ -1,0 +1,24 @@
+2022-03-07 20:45:48,372: INFO --> get_connection() --> Connection successfully established
+2022-03-07 20:45:48,398: INFO --> list_of_employees() --> Connection Close
+2022-03-07 20:45:48,404: INFO --> get_connection() --> Connection successfully established
+2022-03-07 20:45:48,426: INFO --> total_compensation() --> Connection Close
+2022-03-07 20:45:48,533: INFO --> get_engine() --> Engine successfully created
+2022-03-07 20:45:48,565: INFO --> file_to_query() --> Query Execution Unsuccessful
+2022-03-07 20:45:48,565: INFO --> file_to_query() --> Table Creation Successful.
+2022-03-07 20:45:48,574: INFO --> read_sheets() --> Execution Successful.
+2022-03-07 20:45:51,565: INFO --> get_connection() --> Connection successfully established
+2022-03-07 20:45:51,590: INFO --> list_of_employees() --> Connection Close
+2022-03-07 20:45:51,596: INFO --> get_connection() --> Connection successfully established
+2022-03-07 20:45:51,619: INFO --> total_compensation() --> Connection Close
+2022-03-07 20:45:51,725: INFO --> get_engine() --> Engine successfully created
+2022-03-07 20:45:51,758: INFO --> file_to_query() --> Query Execution Unsuccessful
+2022-03-07 20:45:51,758: INFO --> file_to_query() --> Table Creation Successful.
+2022-03-07 20:45:51,767: INFO --> read_sheets() --> Execution Successful.
+2022-03-07 20:45:54,547: INFO --> get_connection() --> Connection successfully established
+2022-03-07 20:45:54,574: INFO --> list_of_employees() --> Connection Close
+2022-03-07 20:45:54,579: INFO --> get_connection() --> Connection successfully established
+2022-03-07 20:45:54,602: INFO --> total_compensation() --> Connection Close
+2022-03-07 20:45:54,706: INFO --> get_engine() --> Engine successfully created
+2022-03-07 20:45:54,740: INFO --> file_to_query() --> Query Execution Unsuccessful
+2022-03-07 20:45:54,740: INFO --> file_to_query() --> Table Creation Successful.
+2022-03-07 20:45:54,749: INFO --> read_sheets() --> Execution Successful.
